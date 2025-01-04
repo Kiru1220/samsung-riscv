@@ -1,1 +1,1 @@
-# samsung-riscv
+RISC-V TALENT DEVELOPMENT PROGRAM
